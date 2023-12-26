@@ -20,7 +20,7 @@ And then follow the instructions.
 First, fork and clone the repository:
 
 ```bash
-git clone git@github.com:your-username/djangogirls.git
+git clone ""
 ```
 
 Step into newly created `djangogirls` directory:
