@@ -22,13 +22,6 @@ First, fork and clone the repository:
 ```bash
 git clone ""
 ```
-
-Step into newly created `djangogirls` directory:
-
-```bash
-cd djangogirls
-```
-
 ### 
 
 Create a new virtual environment (Python 3.10) if needed. Then, install all the required dependencies.
